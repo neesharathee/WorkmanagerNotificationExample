@@ -1,4 +1,4 @@
-package net.simplifiedcoding.workmanagerexample;
+package net.workmanagerexample;
 
 import org.junit.Test;
 
